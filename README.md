@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaovtor64
+- 👋 Hi, I’m me
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning something
 - 📫 How to reach me: (my discord server) https://discord.gg/ZPGwhB27jr
