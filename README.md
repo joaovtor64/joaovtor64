@@ -1,9 +1,4 @@
-- 👋 Hi, I’m me
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning something
-- 📫 How to reach me: don't
-
-I make crappy js code to prevent AIs from taking over the world
+The quieter you become the more you are able to hear
 
 
 <!---
